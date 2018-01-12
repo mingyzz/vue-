@@ -1,0 +1,12 @@
+#不要谁 就把谁写在这里
+node_modules
+dist
+
+
+
+.*
+
+
+
+!.babelrc
+!.gitignore
