@@ -71,8 +71,8 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      filename: './src/index.html',
-      template: 'template.html',
+      template: './src/index.html',
+      filename: 'index.html',
       title: "hello vue"
     })
   ]
